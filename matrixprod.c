@@ -28,7 +28,7 @@ int main() {
         }
     }
 
-    printf("The product of the two matrices is: \n");
+    printf("The product of the two matrices is : \n");
     for (i = 0; i < n; i++) {
         for (j = 0; j < n; j++) {
             printf("%d\t", c[i][j]);
